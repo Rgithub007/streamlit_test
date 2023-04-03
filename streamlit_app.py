@@ -1,4 +1,4 @@
 import streamlit
 streamlit.title('My Parents new Healthy Diner')
-Salad
-Fruit Bowl
+streamlit.title('Salad')
+streamlit.title('Fruit Bowl')
